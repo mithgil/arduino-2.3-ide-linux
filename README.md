@@ -1,5 +1,6 @@
 # arduino-2.3-ide-linux
 How to install and use arduino-2.3-ide on Linux
+---
 
 
 Download an move arduino 2.3 IDE to /opt. after opening it with
@@ -33,3 +34,5 @@ After running these commands, try launching the Arduino IDE again with:
 ./arduino-ide
 ```
 This should resolve the error and allow the IDE to start correctly.
+
+
